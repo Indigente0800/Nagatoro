@@ -1,0 +1,9 @@
+{
+    "name": "Nagatoro-San",
+    "description": "Melhor tema da nagatoro <3.",
+    "version": "1",
+    "author": "Indigente#0800",
+    "theme": "Nagatoro.theme.css",
+    "consent": ["ext_listing"],
+    "license": "MIT"
+}
